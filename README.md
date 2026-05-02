@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou o André! 👋
 
 Sou um desenvolvedor focado em resolver problemas complexos através do código. Atualmente, estou aprimorando meus conhecimentos em **arquitetura de sistemas** e **algoritmos**.
 
