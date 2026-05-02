@@ -140,6 +140,4 @@ Sistemas distribuídos            ████░░░░░░░░░░░ 
 
 *"Entender o problema já é metade da solução."*
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=seu-usuario.seu-usuario)
-
 </div>
