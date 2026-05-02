@@ -12,7 +12,7 @@
 
 **Engenharia de Software (ENIAC) · PHP Developer (Intern) · Backend**
 
-*Guarulhos, SP — Linux Mint XFCE*
+*Guarulhos, SP*
 
 </div>
 
