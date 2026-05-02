@@ -8,9 +8,9 @@
 ╚═══════════════════════════════════════════════════════╝
 ```
 
-# Hey, I'm [ANDRÉ 👋
+# Hey, I'm André 👋
 
-**Ensino Médio Técnico · PHP Developer (Intern) · Backend Enthusiast**
+**Engenharia de Software (ENIAC) · PHP Developer (Intern) · Backend**
 
 *Guarulhos, SP — Linux Mint XFCE*
 
@@ -20,7 +20,7 @@
 
 ## Sobre mim
 
-Sou estudante do ensino médio técnico, bolsista no ENIAC, e trabalho como programador PHP no Colégio Serrano Guardia. No estágio, lido com manutenção de sistemas legados, desenvolvimento de soluções internas e integração com APIs externas — incluindo WhatsApp.
+Sou estudante de Engenharia de Software no ENIAC e trabalho como programador PHP no Colégio Serrano Guardia. No estágio, lido com manutenção de sistemas legados, desenvolvimento de soluções internas e integração com APIs externas — incluindo WhatsApp.
 
 Não estou aqui para fingir que sei tudo. Estou aqui para entender de verdade o que estou fazendo.
 
@@ -107,8 +107,8 @@ Soluções documentadas de problemas algorítmicos com análise de complexidade.
 ## 💡 Interesses técnicos
 
 ```
-Engenharia de Software          ████████████░░░  em construção
-APIs REST                       ██████████░░░░░  crescendo
+Engenharia de Software           ████████████     em construção
+APIs REST                        ██████████░░░░░  crescendo
 Desenvolvimento Fullstack        ████████░░░░░░░  progredindo
 Algoritmos & Estruturas          ██████░░░░░░░░░  estudando
 Sistemas distribuídos            ████░░░░░░░░░░░  no horizonte
@@ -128,9 +128,9 @@ Sistemas distribuídos            ████░░░░░░░░░░░ 
 
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-seu--perfil-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-seuemail@email.com-D14836?style=flat-square&logo=gmail)](mailto:seuemail@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@seu--usuario-181717?style=flat-square&logo=github)](https://github.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-seu--perfil-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/andre-do-nascimento-ferreira-27953a1b0/)
+[![Email](https://img.shields.io/badge/Email-seuemail@email.com-D14836?style=flat-square&logo=gmail)](mailto:andredonascimentoferreira.dev@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@seu--usuario-181717?style=flat-square&logo=github)](https://github.com/AndreNsFr)
 
 </div>
 
