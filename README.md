@@ -8,7 +8,7 @@
 ╚═══════════════════════════════════════════════════════╝
 ```
 
-# Hey, I'm [Your Name] 👋
+# Hey, I'm [ANDRÉ 👋
 
 **Ensino Médio Técnico · PHP Developer (Intern) · Backend Enthusiast**
 
