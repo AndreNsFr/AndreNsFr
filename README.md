@@ -128,7 +128,7 @@ Sistemas distribuídos            ████░░░░░░░░░░░ 
 
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andre-do-Nascimento-Ferreira-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/andre-do-nascimento-ferreira-27953a1b0/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-André%20do%20Nascimento%20Ferreira-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/andre-do-nascimento-ferreira-27953a1b0/)
 [![Email](https://img.shields.io/badge/Email-andredonascimentoferreira.dev@email.com-D14836?style=flat-square&logo=gmail)](mailto:andredonascimentoferreira.dev@email.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@AndreNsFr-181717?style=flat-square&logo=github)](https://github.com/AndreNsFr)
 
