@@ -10,11 +10,20 @@
 
 # Hey, I'm André 👋
 
-**Engenharia de Software (ENIAC) · PHP Developer (Intern) · Backend**
+**Engenharia de Software (ENIAC) · PHP Developer · Backend**
 
 *Guarulhos, SP*
 
 </div>
+
+---
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=andrensfr&rank_icon=github&show_icons=true&theme=github_dark&count_private=true">
+  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=andrensfr&layout=compact&theme=github_dark&count_private=true">
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrensfr&theme=github_dark"/>
+</div>
+
 
 ---
 
