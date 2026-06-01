@@ -143,7 +143,7 @@ Sistemas distribuídos            ████░░░░░░░░░░░ 
 
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrensfr&hide=contribs,prs)
+
 ---
 
 <div align="center">
